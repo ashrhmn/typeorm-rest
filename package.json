@@ -1,7 +1,7 @@
 {
     "name": "typeorm-rest",
     "version": "1.0.0",
-    "description": "",
+    "description": "A simple CRUD rest API using typeORM and express server",
     "main": "index.js",
     "scripts": {
         "dev": "tsc-watch --onSuccess \"node dist/index.js\"",
